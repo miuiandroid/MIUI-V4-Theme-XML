@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<MIUI_Theme_Values>
+
+    <color name="dialer_matchHighlight">#ff727272</color>
+    <color name="incall_callTypeSip">#ffbebebe</color>
+    <color name="incall_call_banner_background">#ff000000</color>
+    <color name="incall_call_state_label_background">#ff000000</color>
+    <color name="incall_call_banner_text_color">#ffffffff</color>
+    <color name="dtmf_dialer_display_text">#ffffffff</color>
+    <color name="people_app_theme_color">#ff33b5e5</color>
+    <color name="call_card_name_miui">#ffffffff</color>
+    <color name="call_card_name_shadow_miui">#8c000000</color>
+    <color name="call_card_info_miui">#7fffffff</color>
+    <color name="call_card_info_shadow_miui">#ff000000</color>
+    <color name="sliding_target_miui">#ffffffff</color>
+    <color name="sliding_bar_miui">#ffffffff</color>
+    <color name="sliding_bar_shadow_miui">#59000000</color>
+    <color name="normal_button_miui">#ffffffff</color>
+    <color name="normal_button_shadow_miui">#7fffffff</color>
+    <color name="red_button_miui">#ffffffff</color>
+    <color name="red_button_shadow_miui">#ffffffff</color>
+    <color name="incall_control_button_miui">#ffffffff</color>
+    <color name="incall_control_button_shadow_miui">#8c000000</color>
+    <color name="incall_control_button_disable_miui">#80ffffff</color>
+    <color name="incall_control_button_checked_miui">#ffffffff</color>
+	
+</MIUI_Theme_Values>

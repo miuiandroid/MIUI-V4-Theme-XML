@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MIUI_Theme_Values>
+    <color name="widget_default_color">#ff616161</color>
+    <color name="widget_exceed_warn">#fff9882c</color>
+    <color name="widget_used_none_exceed_warn">#ff579d00</color>
+    <color name="widget_used_all">#ffc00203</color>
+    <color name="widget_traffic">#ff848484</color>
+	<color name="spinner_head_normal">#ff969696</color>
+    <color name="spinner_head_focus">#ff696969</color>
+    <color name="spinner_head_item">#ffffffff</color>
+</MIUI_Theme_Values>

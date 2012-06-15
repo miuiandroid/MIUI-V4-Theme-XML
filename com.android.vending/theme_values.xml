@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+   This file is used for those applications which wants to run in the
+   native android mode.
+-->
+<MIUI_Theme_Values>
+    
+	<color name="loading_background">#ff000000</color>
+		
+</MIUI_Theme_Values>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<MIUI_Theme_Values>
+
+ 	<color name="list_background">#ff000000</color>
+    <color name="timestamp_color">#ffffffff</color>
+    
+	<color name="text_color_primary">#ff808080</color>
+    <color name="text_color_secondary">#ff727272</color>
+	
+    <color name="text_color_primary_inverse">#ffffffff</color>
+    <color name="text_color_secondary_inverse">#ffffffff</color>
+	
+    <color name="text_color_primary_shadow">#00000000</color>
+    <color name="text_color_secondary_shadow">#00000000</color>
+	
+    <color name="text_color_link">#ffff0000</color>
+	
+    <color name="text_color_highlight">#ffff0000</color>
+	
+    <color name="nickname_placeholder_fg">#ff528c40</color>
+    <color name="nickname_placeholder_bg">#ffddf6cb</color>
+	
+    <color name="conversation_list_item_primary_text_color">#ffffffff</color>
+    <color name="conversation_list_item_secondary_text_color">#ffffffff</color>
+    <color name="conversation_list_item_text_shadow_color">#00000000</color>
+    <color name="conversation_unread_text_color">#ff808080</color>
+	
+    <color name="fetion_prefix_text_color">#ffffffff</color>
+	
+    <color name="conversation_title_primary_text_color">#ffffffff</color>
+    <color name="conversation_title_secondary_text_color">#ffffffff</color>
+    <color name="conversation_title_text_shadow_color">#00000000</color>
+    
+	<color name="message_list_title_text_color">#ffffffff</color>
+    <color name="message_list_title_text_shadow_color">#00000000</color>
+    <color name="message_bubble_title_text_color">#ffffffff</color>
+    <color name="message_bubble_title_text_shadow_color">#00000000</color>
+    <color name="message_deliver_text_color">#ffffffff</color>
+    <color name="message_deliver_text_shadow_color">#00000000</color>
+    <color name="message_bubble_body_text_color">#ffffffff</color>
+    <color name="message_bubble_body_text_shadow_color">#00000000</color>
+    <color name="message_list_body_text_color">#ffffffff</color>
+    <color name="message_list_body_text_shadow_color">#00000000</color>
+    <color name="message_body_secondary_text_color">#ffffffff</color>
+    <color name="message_body_secondary_text_shadow_color">#00000000</color>
+    <color name="message_body_link_text_color">#ffffffff</color>
+    <color name="message_button_alert_text_color">#ffffffff</color>
+    <color name="message_body_mms_text_color">#ffffffff</color>
+    <color name="message_body_mms_text_shadow_color">#00000000</color>
+    
+	<color name="recipient_edit_primary_text_color">#ffffffff</color>
+    <color name="recipient_edit_secondary_text_color">#ff808080</color>
+    
+	<color name="flatshow_pageno_text_color">#ffffffff</color>
+    <color name="flatshow_pageno_text_shadow_color">#00000000</color>
+    
+	<color name="expander_group_text_color">#ff727272</color>
+    
+	<color name="festival_count_text_color">#ff2f2f2f</color>
+    
+	<color name="counter_text_color">#ff727272</color>
+    
+	<color name="background">#ff000000</color>
+	
+</MIUI_Theme_Values>

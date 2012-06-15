@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<MIUI_Theme_Values>
+    <color name="green">#ff377924</color>
+    <color name="deepgrey">#ff9b9c9e</color>
+    <color name="lightgrey">#ff9b9c9e</color>
+    <color name="transparent_40_black">#ff000000</color>
+    <color name="new_version_title">#ffff7e00</color>
+    <color name="share_sign_in_text">#ffff7e00</color>
+	<color name="black">#ffffffff</color>
+</MIUI_Theme_Values>

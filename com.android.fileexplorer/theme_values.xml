@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIUI_Theme_Values>
+	 <color name="yellow">#fffff000</color>
+    <color name="gray">#ffa6a6a0</color>
+    <color name="orange">#ffffffff</color>
+    <color name="deepcolor">#fffaaa5f</color>
+    <color name="shadowcolor">#ff333333</color>
+    <color name="naming">#ffffffff</color>
+    <color name="red">#ffff0000</color>
+    <color name="background">#ff000000</color>
+    <color name="orange_yellow">#ffffffff</color>
+    <color name="remote_connect_text">#ffffffff</color>
+    <color name="remote_disconnect_text">#ff727272</color>
+</MIUI_Theme_Values>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MIUI_Theme_Values>
+    <color name="half_transparent_white">#ffffffff</color>
+    <color name="text_color_backup_success">#ffffffff</color>
+    <color name="red">#ffff0000</color>
+</MIUI_Theme_Values>
